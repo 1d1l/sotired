@@ -7,8 +7,7 @@ body {
 }
 
 body {
-  /*background-image: url('/imgs/green.jpg');*/
-  background-color: blue;
+  background-image: url('/imgs/green.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
